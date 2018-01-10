@@ -1,0 +1,42 @@
+h3{
+    text-align:center;
+    margin:10px;
+}
+.data_on{
+     text-align:center;
+}
+.data_off{
+     color:white;
+}
+input{
+    float:right;
+}
+input:hover{
+    border:solid 2px lightblue;
+}
+
+#content{
+    margin-top:160px;
+    margin-left:20%;
+    margin-right:20%;
+}
+a {
+  font-size:12px;
+}
+.btn{
+  font-size:0.9em;
+}
+.border{
+  border:solid 1px silver !important;
+  text-align: center;
+}
+.debit{
+  background-color: lightgreen;
+}
+.kredit{
+  background-color: #FFF0F5;
+}
+.sum{
+  text-align: center;
+  font-weight: 700;
+}
